@@ -6,7 +6,7 @@ This is my website
 I will be updating this site with projects I am working on.
 
 ### Projects
-![B.A.D. Board](~/Docusments/school/HOPE/final_project/acoustic-guitar-version.png)
+![B.A.D. Board](/images/acoustic-guitar-version.png)
 My final project for my Hands On PCB DeCal: Bluetooth Audio Device
 [TBD]
 
