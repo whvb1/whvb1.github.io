@@ -12,7 +12,7 @@ My final project for my Hands On PCB DeCal: Bluetooth Audio Device
 
 
 ### Research
-[BWRC Lab](bwrc.eecs.berkeley.edu/user/will-vavrik)
+[BWRC Lab](https://bwrc.eecs.berkeley.edu/user/will-vavrik)
 [TBD]
 
 ### Academics / Honors
